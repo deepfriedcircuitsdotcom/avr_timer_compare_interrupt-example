@@ -1,0 +1,9 @@
+Makefile
+*.bin
+*.elf
+*.lst
+*.o
+*.map
+*.hex
+*.srec
+
